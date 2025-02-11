@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://darberg.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dariushjkr)
+  [![Spotify](https://darberg.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/54cz6ijk378yo4s8k9whos0wi)
 </div>
 
 &nbsp;<div align="center">
