@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on backend development, distributed systems, and security. I enjoy building scalable applications and exploring new technologies.
 
 ## 🚀 About Me
-- 🔹 Self-taught software engineer
+- 🔹 Self-taught Backend Developer
 - 🔹 Experienced in **JavaScript, TypeScript, NestJS, and a little bit of C++**
 - 🔹 Interested in **system design, security, and cryptography**
 - 🔹 Currently building a **vault application** in C++ for Windows and Linux
