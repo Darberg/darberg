@@ -32,9 +32,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 
 Feel free to check out my repositories and leave a star ⭐ if you find something useful! Let's build something amazing together! 🚀
-
-
-🎵 Music I'm Listening To
-&nbsp;<div align="center">
-  [![Spotify](https://darberg.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/54cz6ijk378yo4s8k9whos0wi)
-</div>
